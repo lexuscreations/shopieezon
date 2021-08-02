@@ -1,0 +1,60 @@
+.loginBtnHomeHero:hover {
+    background: transparent !important;
+    color: #ff5b7e !important;
+    border: 1px solid gray;
+}
+
+.nav-pills .nav-link.active,
+.nav-pills .show>.nav-link {
+    background-color: #f0a348;
+    color: rgb(22, 22, 22);
+}
+
+.nav-pills .nav-link {
+    color: #212529 !important;
+}
+
+.custom-shape-divider-bottom-1627402688 {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    overflow: hidden;
+    line-height: 0;
+    transform: rotate(180deg);
+}
+
+.custom-shape-divider-bottom-1627402688 svg {
+    position: relative;
+    display: block;
+    width: calc(100% + 1.3px);
+    height: 92px;
+}
+
+.custom-shape-divider-bottom-1627402688 .shape-fill {
+    fill: #FFFFFF;
+}
+
+.sideSortHomeMenuSec {
+    background-color: transparent;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin: 0 !important;
+    padding: 0 !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sideSortHomeMenuSec i {
+    background-color: rgba(12, 12, 12, 0.507);
+    color: #fff;
+    width: 100%;
+    height: 100%;
+    opacity: 1 !important;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 1rem;
+}
