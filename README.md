@@ -2,6 +2,6 @@
 
 ### Shopieezon - UnderDevelopment...
 
-<br />
+<hr />
 
 ### Visit - [netlify/shopieezon](https://shopieezon.netlify.app/)
