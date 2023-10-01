@@ -1,4 +1,7 @@
-# shopieezon
-Shopieezon - UnderConstruction
+## shopieezon
+
+### Shopieezon - UnderDevelopment...
+
 <br />
-<a href="https://shopieezon.netlify.app/">Visit</a>
+
+### Visit - [netlify/shopieezon](https://shopieezon.netlify.app/)
